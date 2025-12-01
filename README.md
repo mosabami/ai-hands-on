@@ -63,6 +63,8 @@ Recommended workflow:
    - `2.PyTorch/`
    - `3.Neural-Networks/`
    - `4.Transformer/`
+
+3. Folder to run separately:
    - `5.RAG/`
    - `6.OCR/`
 
