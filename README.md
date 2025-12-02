@@ -6,6 +6,7 @@ This repository is designed to help you learn AI from first principles, build re
 You'll progress through math, PyTorch, deep learning, transformers, RAG, and OCR — with clean, intuitive Jupyter notebooks guiding you at every step.
 
 Whether you're a beginner or an engineer levelling up, this repo gives you the clarity, structure, and intuition needed to build real AI systems.
+<img width="1200" height="500" alt="Electronica Tech Needs GoDaddy Store Image" src="https://github.com/user-attachments/assets/28bde788-0905-460e-af4b-ad5e9a5450ce" />
 
 ## Repository Structure
 
