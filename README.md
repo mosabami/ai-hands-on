@@ -5,6 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/Ramakm/ai-hands-on?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/Ramakm/ai-hands-on?style=flat-square)
 ![License](https://img.shields.io/github/license/Ramakm/ai-hands-on?style=flat-square)
+<img width="2000" height="600" alt="image" src="https://github.com/user-attachments/assets/0c161d9a-3227-4dd7-a416-ad97bc9742a9" />
 
 A complete, hands-on guide to becoming an AI Engineer.
 
